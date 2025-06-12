@@ -56,6 +56,26 @@ https://github.com/user-attachments/assets/94cb1a0e-580d-4684-aa37-83bc5ea23a72
     |-- ... (e assim por diante)
 
 ```
+## Estrutura para organizar o SVG dentro do VSCODE:
+
+```
+<svg id="mapa-exemplo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+<g id="regiao_03" class="regiao">
+    <polygon id="marica" class="bairro" points="(CODIGO DO VETOR)"/>
+    <polygon id="saquarema" class="bairro" points="(CODIGO DO VETOR)"/>
+    <polygon id="rio_bonito" class="bairro" points="(CODIGO DO VETOR)"/>
+    <polygon id="silva_jardim" class="bairro" points="(CODIGO DO VETOR)"/>
+    <polygon id="casimiro_de_abreu" class="bairro" points="(CODIGO DO VETOR)"/>
+    <polygon id=...
+</g>
+</svg>
+
+```
+### No Illusrator, como deve ser montado a estrutura para gerar o codigo corretamente:
+![image](https://github.com/user-attachments/assets/9b503851-477c-4cd6-a278-493f73c81847)
+
+
+
 
 ## 🚀 Como Executar
 
