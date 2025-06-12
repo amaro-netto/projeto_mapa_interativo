@@ -29,7 +29,7 @@ A ideia central é fornecer um *template* funcional que possa ser facilmente int
 
 * **Tecnologias:** HTML5, CSS3 (Flexbox), JavaScript (ES6+).
 * **Ferramentas de Desenvolvimento:**
-    * **Adobe Illustrator / Inkscape:** Para edição e estruturação inicial do arquivo vetorial.
+    * **Adobe Illustrator:** Para edição e estruturação inicial do arquivo vetorial.
     * **SVGOMG:** Ferramenta online para otimização e minificação do código SVG.
     * **Visual Studio Code + Extensão Live Server:** Ambiente de desenvolvimento para servir os arquivos localmente e evitar erros de CORS.
 
