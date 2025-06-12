@@ -72,7 +72,8 @@ https://github.com/user-attachments/assets/94cb1a0e-580d-4684-aa37-83bc5ea23a72
 
 ```
 ### No Illusrator, como deve ser montado a estrutura para gerar o codigo corretamente:
-![image](https://github.com/user-attachments/assets/9b503851-477c-4cd6-a278-493f73c81847)
+![image](https://github.com/user-attachments/assets/fd4de6f2-e7fd-4249-98bc-3802332c78d5)
+
 
 
 
