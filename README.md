@@ -14,6 +14,12 @@ A ideia central é fornecer um *template* funcional que possa ser facilmente int
 
 ![Screenshot do Projeto](https://github.com/user-attachments/assets/fed41392-dbef-46ac-809e-3c21a6b5018f)
 
+
+
+https://github.com/user-attachments/assets/94cb1a0e-580d-4684-aa37-83bc5ea23a72
+
+
+
 ## ✨ Funcionalidades Atuais (Fase 1)
 
 * **Mapa Vetorial (SVG) Otimizado:** Utiliza um mapa SVG detalhado, com caminhos simplificados para garantir performance e carregamento rápido.
