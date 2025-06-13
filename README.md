@@ -12,13 +12,7 @@ Este projeto é uma interface de mapa interativo do estado do Rio de Janeiro, pr
 
 A ideia central é fornecer um *template* funcional que possa ser facilmente integrado a um backend e a um banco de dados, permitindo que diferentes departamentos (TI, Contabilidade, Operações, etc.) visualizem seus dados de forma geoespacial.
 
-![Screenshot do Projeto](https://github.com/user-attachments/assets/fed41392-dbef-46ac-809e-3c21a6b5018f)
-
-
-
-https://github.com/user-attachments/assets/94cb1a0e-580d-4684-aa37-83bc5ea23a72
-
-
+https://github.com/user-attachments/assets/bf86824c-d0ce-48e2-9de1-192520954bd7
 
 ## ✨ Funcionalidades Atuais (Fase 1)
 
@@ -48,12 +42,17 @@ https://github.com/user-attachments/assets/94cb1a0e-580d-4684-aa37-83bc5ea23a72
 |-- index.html              (A estrutura principal da página)
 |-- style.css               (O estilo da página)
 |-- script.js               (A lógica de interatividade e zoom)
-|-- mapa.svg                (O arquivo com o desenho do mapa)
 |
 +-- /data/                  (Pasta para os dados de cada região)
-    |-- regiao_1.js
-    |-- regiao_2.js
-    |-- ... (e assim por diante)
+|   |-- regiao_1.js
+|   |-- regiao_2.js
+|   |-- ... (e assim por diante)
+|
++-- /svgs/                  (Pasta para os mapas)
+|   |-- mapa-geral.svg
+|   |-- regiao_01.svg
+|   |-- ... (e assim por diante)
+|
 
 ```
 ## Estrutura para organizar o SVG dentro do VSCODE:
